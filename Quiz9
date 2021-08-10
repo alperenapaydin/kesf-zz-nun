@@ -1,5 +1,5 @@
 1. "Canberk" < "Oğuz" 
-Cevap: False
+Cevap: True
 
 2. not (2.14 > 3.49 or (2 != 2 and "Murat" == "Murat"))
 Cevap: True
